@@ -1,0 +1,29 @@
+{
+  "name": "rgb-led-over-iot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://dapanas@github.com/dapanas/rgb-led-over-iot.git"
+  },
+  "keywords": [
+    "rgb",
+    "iot",
+    "aws",
+    "arduino"
+  ],
+  "author": "Daniel Pérez <dapanas@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dapanas/rgb-led-over-iot/issues"
+  },
+  "homepage": "https://github.com/dapanas/rgb-led-over-iot#readme",
+  "dependencies": {
+    "aws-iot-device-sdk": "^1.0.14",
+    "johnny-five": "^0.10.6"
+  }
+}
